@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center"> 
+	🚧 Readme em construção 🚧
+</h1>
 
-<!--
-**paulofreitas-py/paulofreitas-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ✅Bem vindo ao Github de um Pythonista🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋Olá Mundo **Paulo Freitas**, tenho 22 anos e minha grande paixão deste ps 17 é programar!!
+
+
+## 🛠 Habilidades técnicas
+- Python
+- React
+- Git
+- MySQL / SQL
+- HTML5
+- Java Script
+
+
+
+## ✅ Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ericksonlopesdev/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Erickson-lopes-dev)](https://github.com/Erickson-lopes-dev)
+![Gmail Badge](https://img.shields.io/badge/-ofc.paulofreitas.cco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=erickson:ofc.paulofreitas.cco@gmail.com)
+
+
+   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitas-py&show_icons=true&theme=tokyonight)](https://github.com/Erickson-lopes-dev/github-readme-stats)
