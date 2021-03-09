@@ -21,12 +21,6 @@ atualmente sou estudante da Ciência da Computação, ingeressei no primeiro sem
 
 
 ## ✅ Entre em contato!
-<p align="left">
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html&hide_border=true" />
-  <br>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulofreitas-py/">
@@ -37,3 +31,10 @@ atualmente sou estudante da Ciência da Computação, ingeressei no primeiro sem
   </a>
 </p>
 
+## 💻Skills 
+<p align="left">
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html&hide_border=true" />
+  <br>
+</p>
