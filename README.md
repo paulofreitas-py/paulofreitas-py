@@ -36,6 +36,3 @@ atualmente sou estudante da Ciência da Computação, ingeressei no primeiro sem
   </a>
 </p>
 
-
-   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitas-py&show_icons=true&theme=tokyonight)](https://github.com/Erickson-lopes-dev/github-readme-stats)
