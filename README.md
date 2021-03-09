@@ -38,10 +38,10 @@ atualmente sou estudante da Ciência da Computação, ingeressei no primeiro sem
   <a href="https://www.twitch.tv/th3hydr4shell">
     <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/th3hydr4shell">
+  <a href="https://www.youtube.com/channel/UCOcAap9EbzrMZnx3XTnP6wQ">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-	<a href="https://www.tme.co/paulofreitas.py">
+	<a href="https://t.me/paulofreitas_py">
     <img src="https://img.shields.io/badge/Telegram-084B8A?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
