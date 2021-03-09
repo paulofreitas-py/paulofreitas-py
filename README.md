@@ -20,9 +20,21 @@ atualmente sou estudante da Ciência da Computação, ingeressei no primeiro sem
 
 
 ## ✅ Entre em contato!
+<p align="left">
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html&hide_border=true" />
+  <br>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofreitas-py/)](https://www.linkedin.com/in/paulofreitas-py/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulofreitas-py)](https://github.com/paulofreitas-py)
-![Gmail Badge](https://img.shields.io/badge/-ofc.paulofreitas.cco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=erickson:ofc.paulofreitas.cco@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulofreitas-py/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/paulofreitas-py">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 
    
