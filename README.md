@@ -11,6 +11,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 ## 🛠 Habilidades técnicas
 <br>
 <p align="center">
+  <img alt="Python" src="https://simpleicons.org/icons/myob.svg"/>	
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
