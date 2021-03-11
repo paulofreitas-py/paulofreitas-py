@@ -52,7 +52,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 ## 💻 Skills 
 <p align="left">
   <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
+    <img alt"#" src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=blue-green"/>
   <br>
 </p>
