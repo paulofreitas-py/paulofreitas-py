@@ -35,8 +35,8 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <a href="https://www.instagram.com/paulofreitas.py/">
     <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/th3hydr4shell">
-    <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-642EFE?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UCOcAap9EbzrMZnx3XTnP6wQ">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
