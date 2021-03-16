@@ -13,9 +13,13 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23FF9900.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
   <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>	
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	
+  <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <br>
 </p>
 
@@ -45,6 +49,21 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
     <img src="https://img.shields.io/badge/Telegram-084B8A?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
+
+## 📚 Blog
+<p align="center">
+  <a href="https://medium.com/@paulofreitas.py">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+<p align="center">
+  <a href="https://dev.to/paulofreitas_py">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>	
+<p align="center">
+  <a href="https://www.instagram.com/paulofreitas.py/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>		
+
 
 ## 🏆 Github Trophy
 <p align="center">
