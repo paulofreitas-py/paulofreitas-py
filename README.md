@@ -52,18 +52,17 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 
 ## 📚 Blog
 
+<p align="center">
   <a href="https://medium.com/@paulofreitas.py">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-
   <a href="https://dev.to/paulofreitas_py">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>	
-
   <a href="https://www.instagram.com/paulofreitas.py/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>		
-
+</p>
 
 ## 🏆 Github Trophy
 <p align="center">
