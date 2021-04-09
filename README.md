@@ -74,6 +74,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <br>
     <img alt"#" src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=blue-green"/>
+	<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="paulofreitas-py"><a class="LI-simple-link" href='https://br.linkedin.com/in/paulofreitas-py?trk=profile-badge'>Paulo Freitas</a></div>
   <br>
 </p>
 
