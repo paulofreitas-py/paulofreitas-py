@@ -1,6 +1,6 @@
 
 
-<img align='right' src="https://th3hydr4.files.wordpress.com/2021/03/oe3quqv.gif" width="350">
+<img align='right' src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__img1.png" width="350">
 
 ## 🚀 Bem vindo ao meu Github: Paulofreitas.py 
 
