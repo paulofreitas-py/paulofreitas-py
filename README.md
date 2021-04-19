@@ -4,7 +4,7 @@
 
 ## 🚀 Bem vindo ao meu Github: Paulofreitas.py 
 
-👋Olá Mundo **Paulo Freitas**, tenho 22 anos e minha grande paixão deste os 17 é programar!!
+👋Olá, me chamo **Paulo Freitas**, tenho 22 anos e minha grande paixão deste os 17 é programar!!
 atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 2020, viciado em café, amo astronomia, cosmologia e astrofísica, sou bastante curioso em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser um profissional em Front-End (começando de baixo por que sonhos decolam aos poucos) 
 
 
