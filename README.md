@@ -67,7 +67,10 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 ## 🏆 Github Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paulofreitas-py&theme=darkhub"/>
-
+	
+## ⏲ Wakatime Week Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitas-py/>
 
 ## 💻 Skills 
 <p align="left">
