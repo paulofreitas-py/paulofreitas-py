@@ -69,8 +69,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <img src="https://github-profile-trophy.vercel.app/?username=paulofreitas-py&theme=darkhub"/>
 	
 ## ⏲ Wakatime Week Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitas-py/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Skills 
 <p align="left">
