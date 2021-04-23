@@ -68,21 +68,6 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paulofreitas-py&theme=darkhub"/>
 	
-## ⏲ Wakatime Week Stats
-<!--Start of PingBack Script-->
-  <script type="text/javascript">
-    window.pingbackEmbeder={embeds:[0,1,2],channelSlug:'paulofreitas-py'};
-    var PingBackAPI=PingBackAPI||{}, PingBack_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://pingback.com/embeder.js';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
-  </script>
-<!--End of PingBack Script-->
 
 ## 💻 Skills 
 <p align="left">
