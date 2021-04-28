@@ -20,6 +20,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	
   <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-9500ae?style=for-the-badge&logo=robot-framework&logoColor=white"/>
   <br>
 </p>
 
