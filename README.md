@@ -19,7 +19,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <br>
 </p>
 
-## 🛠 Aprendendo
+##  👨‍💻 Aprendendo
 <br>
 <p align="center">
  <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -29,7 +29,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <br>
 </p>
 
-## 🛠 Estudando na Faculdade
+## 💻 Estudando na Faculdade
 <br>
 <p align="center">
 <img alt="C" src="https://img.shields.io/badge/Java%20-FF8800.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -86,7 +86,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <img src="https://github-profile-trophy.vercel.app/?username=paulofreitas-py&theme=darkhub"/>
 	
 
-## 💻 Skills 
+## 🤟 Skills 
 <p align="left">
   <br>
     <img alt"#" src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
