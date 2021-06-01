@@ -96,4 +96,4 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
     <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev"/>
 </p>
 
- ![Snake animation](https://github.com/rafaballerini/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
