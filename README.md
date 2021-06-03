@@ -91,7 +91,8 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <br>
     <img alt"#" src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=blue-green"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
   <br>
 </p>
 
+ ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
