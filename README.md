@@ -75,7 +75,6 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paulofreitas-py&theme=darkhub"/>
 
-
 ## 🤟Hard Skills 
 <p align="left">
   <br>
