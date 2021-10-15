@@ -9,6 +9,9 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 
 ## 🛠 Programas // Softwares
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Intellij](https://img.shields.io/badge/Blender%203D-0078D4?style=for-the-badge&logo=blender&logoColor=white)
+
 
 ## 🛠 Habilidades técnicas
 ![Git](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -20,6 +23,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 ![]()
 ##  👨‍💻 Aprendendo
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![robotframework](https://img.shields.io/badge/Robot%20Framework-9500ae?style=for-the-badge&logo=robot-framework&logoColor=white)
