@@ -17,8 +17,8 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 
 ## 🛠 Programas // Softwares
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Intellij](https://img.shields.io/badge/Blender%203D-0078D4?style=for-the-badge&logo=blender&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-651fff?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Intellij](https://img.shields.io/badge/Blender%203D-FF8800?style=for-the-badge&logo=blender&logoColor=white)
 
 
 ## 🛠 Habilidades técnicas
