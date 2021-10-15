@@ -7,6 +7,14 @@
 👋Olá, me chamo **Paulo Freitas**, tenho 22 anos e minha grande paixão deste os 17 é programar!!
 atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 2020, viciado em café, amo astronomia, cosmologia e astrofísica, sou bastante curioso em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser profissional em Front-End (começando de baixo por que sonhos decolam aos poucos) 
 
+## 📜 Certicações
+- [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
+- [Impulso React - DIO](https://......)
+- [Cloud Practitioner Essentials - AWS ](https://github.com/paulofreitas-py/Certificados/blob/main/AWS%20Cloud%20Practitioner%20Essentials%20.pdf)
+- [Curso Técnicas de Proteção - Rootsec](https://github.com/paulofreitas-py/Certificados/blob/main/Rootsec%20Curso%20T%C3%A9cnicas%20de%20Prote%C3%A7%C3%A3o.png)
+- [Tecnicas de Invasão - GuardWeb](https://github.com/paulofreitas-py/Certificados/blob/main/Tecnicas%20de%20Invas%C3%A3o%20GuardWeb.png)
+-  - [Reporsitorio de Todosa os Certificados](https://github.com/paulofreitas-py/Certificados)
+
 ## 🛠 Programas // Softwares
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -40,7 +48,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   <a href="https://github.com/paulofreitas-py">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/th3hydr4shell">
+  <a href="https://www.twitch.tv/paulofreitas_py">
     <img src="https://img.shields.io/badge/Twitch-A901DB?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/paulofreitas.py/">
@@ -88,3 +96,4 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 </p>
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
+
