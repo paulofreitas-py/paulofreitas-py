@@ -1,40 +1,33 @@
 
 
-<img align='right' src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__img1.png" width="350">
+<img align='right' src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__img1.png" width="300">
 
 ## 🚀 Bem vindo ao meu Github:
 
-👋�Olá Mundo me **Paulo Freitas**, tenho 22 anos atualmente sou estudante de Ciência da Computação, ingressei no primeiro semestre de 2020. Sou viciado em café, amo astronomia, cosmologia e astrofísica e sou bastante curioso em Data science, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser um profissional em Front-End (começando de baixo por que sonhos decolam aos poucos🚀)
+👋Olá, me chamo **Paulo Freitas**, tenho 22 anos e minha grande paixão deste os 17 é programar!!
+atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 2020, viciado em café, amo astronomia, cosmologia e astrofísica, sou bastante curioso em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser profissional em Front-End (começando de baixo por que sonhos decolam aos poucos) 
 
+## 🛠 Programas // Softwares
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🛠 Habilidades técnicas
-<br>
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-651fff?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <br>
-</p>
-
+![Git](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-651fff?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![]()
 ##  👨‍💻 Aprendendo
-<br>
-<p align="center">
- <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-9500ae?style=for-the-badge&logo=robot-framework&logoColor=white"/>
-  <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <br>
-</p>
-
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![robotframework](https://img.shields.io/badge/Robot%20Framework-9500ae?style=for-the-badge&logo=robot-framework&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ## 💻 Estudando na Faculdade
-<p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/Java%20-FF8800.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-</p>
-
+![C](https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Java](https://img.shields.io/badge/Java%20-FF8800.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ## ✅ Entre em contato!
 
 <p align="center">
@@ -81,15 +74,16 @@
 ## 🏆 Github Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paulofreitas-py&theme=darkhub"/>
-	
 
-## 🤟 Skills 
+
+## 🤟Hard Skills 
 <p align="left">
   <br>
-    <img alt"#" src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=blue-green"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true"/>
   <br>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
+
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
