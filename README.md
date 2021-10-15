@@ -33,8 +33,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Java](https://img.shields.io/badge/Java%20-FF8800.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ## ✅ Entre em contato!
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/paulofreitas-py/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -55,12 +54,9 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
   </a>
 	<a href="https://t.me/paulofreitas_py">
     <img src="https://img.shields.io/badge/Telegram-084B8A?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
 
 ## 📚 Blog
-
-<p align="center">
+<p align="left">
  <a href="https://paulofreitas-py.pingback.com/">
     <img src="https://img.shields.io/badge/pingback-e8eaf6?style=for-the-badge&logo=pingback&logoColor=white"/>
   </a>
