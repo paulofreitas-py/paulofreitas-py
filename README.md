@@ -96,3 +96,5 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
 
+## Ajude o Universitario a pagar seu Café
+<p align="center"><a href="https://www.buymeacoffee.com/paulofreitas.py"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulofreitas.py" /></a></p><br>
