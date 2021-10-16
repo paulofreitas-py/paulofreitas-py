@@ -95,6 +95,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 </p>
 
 ## Ajude o Universitario a pagar seu Café
-<p align="left"><a href="https://www.buymeacoffee.com/paulofreitas.py"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulofreitas.py" /></a></p><br>
+<p align="left"><a href="https://www.buymeacoffee.com/paulofreitas.py"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=paulofreitas.py&button_colour=000000&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
+
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
