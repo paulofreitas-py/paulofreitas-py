@@ -90,7 +90,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true"/>
   <br>
 </p>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
 </p>
 
