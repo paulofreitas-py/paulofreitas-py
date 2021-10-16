@@ -7,6 +7,9 @@
 👋Olá, me chamo **Paulo Freitas**, tenho 22 anos e minha grande paixão deste os 17 é programar!!
 atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 2020, viciado em café, amo astronomia, cosmologia e astrofísica, sou bastante curioso em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser profissional em Front-End (começando de baixo por que sonhos decolam aos poucos) 
 
+## Ajude o Universitario a pagar seu Café
+<p align="left"><a href="https://www.buymeacoffee.com/paulofreitas.py"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=paulofreitas.py&button_colour=000000&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
+
 ## 📜 Certicações
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
 - [Impulso React - DIO](https://......)
@@ -93,9 +96,6 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
 </p>
-
-## Ajude o Universitario a pagar seu Café
-<p align="left"><a href="https://www.buymeacoffee.com/paulofreitas.py"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=paulofreitas.py&button_colour=000000&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
 
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
