@@ -9,6 +9,7 @@ atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 
 
 ## Ajude o Universitario a pagar seu Café
 <p align="left"><a href="https://www.buymeacoffee.com/paulofreitas.py"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=paulofreitas.py&button_colour=000000&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
+
 ## 📜 Certicações
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
 - [Impulso React - DIO](https://......)
