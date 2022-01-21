@@ -3,7 +3,7 @@
 ## 🚀 Bem vindo ao meu Github: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" /> </p>
 
-👋Olá, me chamo **Paulo Freitas**, tenho 22 anos atualmente sou estudante da Ciência da Computação, ingeressei no semestre de 2020, viciado em café, gosto muito de astronomia, cosmologia e astrofísica, sou bastante curioso em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser profissional em Front-End.
+👋Olá, me chamo **Paulo Freitas**, tenho 22 anos atualmente sou estudante da Ciência da Computação, ingressei no semestre de 2020, sou viciado em café, tenho como hobby ler e estudar astronomia, cosmologia, tenho bastante curiosidade em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser profissional em Front-End.
 
 ## 📜 Certicações
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
