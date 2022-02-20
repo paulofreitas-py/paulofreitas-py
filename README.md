@@ -3,7 +3,7 @@
 ## 🚀 Bem vindo ao meu Github: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" /> </p>
 
-👋Olá, me chamo **Paulo Freitas**, tenho 22 anos atualmente sou estudante da Ciência da Computação, ingressei no semestre de 2020, sou viciado em café, tenho como hobby ler e estudar astronomia, cosmologia, tenho bastante curiosidade em Data science, hacking, engenharia reversa e pentest. E nesse exato momento meu maior foco é começar a ser profissional em Front-End.
+👋Olá, me chamo **Paulo Freitas**, tenho 22 anos atualmente sou estudante da Ciência da Computação, ingressei no semestre de 2020
 
 ## 📜 Certicações
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
@@ -25,7 +25,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-651fff?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![]()
+![]() 
 ##  👨‍💻 Aprendendo
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
