@@ -5,11 +5,13 @@
 
 👋Olá, me chamo **Paulo Freitas**, tenho 23 anos atualmente sou estudante da Ciência da Computação, ingressei no semestre de 2020
 
-## 📜 Certicações
+## 📜 Certicações // Certificações 
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
 - [Cloud Practitioner Essentials - AWS ](https://github.com/paulofreitas-py/Certificados/blob/main/AWS%20Cloud%20Practitioner%20Essentials%20.pdf)
 - [Curso Técnicas de Proteção - Rootsec](https://github.com/paulofreitas-py/Certificados/blob/main/Rootsec%20Curso%20T%C3%A9cnicas%20de%20Prote%C3%A7%C3%A3o.png)
 - [Tecnicas de Invasão - GuardWeb](https://github.com/paulofreitas-py/Certificados/blob/main/Tecnicas%20de%20Invas%C3%A3o%20GuardWeb.png)
+- [Certificação CyberSegurança]()
+
 -  - [Reporsitorio de Todosa os Certificados](https://github.com/paulofreitas-py/Certificados)
 
 ## 🛠 Programas // Softwares
