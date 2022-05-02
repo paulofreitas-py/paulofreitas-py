@@ -96,5 +96,7 @@
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://app.daily.dev/paulofreitas_py"><img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="400" alt="Paulo Freitas 's Dev Card"/></a>
+
 ## Ajude o Universitario a pagar seu Café
 <a href="https://www.buymeacoffee.com/paulofreitas.py"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=paulofreitas.py&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
