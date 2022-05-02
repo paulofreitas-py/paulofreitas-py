@@ -90,7 +90,7 @@
   <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
-<a href="https://app.daily.dev/paulofreitas_py"><img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="100" alt="Paulo Freitas 's Dev Card"/></a> 
+<a href="https://app.daily.dev/paulofreitas_py"><img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="200" alt="Paulo Freitas 's Dev Card"/></a> 
 
  ![Snake animation](https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg)
 
