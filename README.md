@@ -3,7 +3,7 @@
 ## 🚀 Bem vindo ao meu Github: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" /> </p>
 
-👋Olá, me chamo **Paulo Freitas**, tenho 23 anos atualmente sou estudante da Ciência da Computação e Programador Front-end
+👋Olá, me chamo **Paulo Freitas**, tenho 25 anos, Formado em Ciência da Computação e Estudando Ciência de Dados 
 
 ## 📜 Certicações // Certificações 
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
