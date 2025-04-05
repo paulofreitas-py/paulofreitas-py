@@ -1,7 +1,7 @@
 <!-- Posiciona o daily.dev flutuando à direita da tela -->
 <div style="position: absolute; right: 0; top: 140px; z-index: 1;">
   <a href="https://app.daily.dev/paulofreitas_py" target="_blank">
-    <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="180" alt="Paulo Freitas Dev Card"/>
+    <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="100" alt="Paulo Freitas Dev Card"/>
   </a>
 </div>
 
