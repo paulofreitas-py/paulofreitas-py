@@ -11,8 +11,6 @@
     style="position: relative; top: -100px; right: 1px;" />
 </a>
 
-
-
 ---
 
 ## 🚀 O que estou estudando atualmente  
