@@ -1,14 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-
-# 👋 Olá, eu sou Paulo Freitas  
-🎓 Bacharel em Ciência da Computação - UNIFG (2023)  
-🎓 Pós-graduando em Ciência de Dados no Infnet (IA, ML e DL)  
-
+<!-- Header com apresentação e daily.dev à direita -->
+<div style="overflow: hidden;">
+  <div style="float: right; margin-left: 20px;">
+    <a href="https://app.daily.dev/paulofreitas_py" target="_blank">
+      <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="240" alt="Paulo Freitas Dev Card"/>
+    </a>
   </div>
-  <a href="https://app.daily.dev/paulofreitas_py" target="_blank">
-    <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="240" alt="Paulo Freitas Dev Card"/>
-  </a>
+
+  # 👋 Olá, eu sou Paulo Freitas  
+  🎓 Bacharel em Ciência da Computação - UNIFG (2023)  
+  🎓 Pós-graduando em Ciência de Dados no Infnet (IA, ML e DL)  
 </div>
 
 <p align="left"> 
@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://holopin.io/@paulofreitas_dev" target="_blank">
-    <img src="https://holopin.io/api/user/board?user=paulofreitas_dev" width="240" alt="Holopin Badges"/>
+    <img src="https://holopin.io/api/user/board?user=paulofreitas_dev" width="340" alt="Holopin Badges"/>
   </a>
 </div>
 
