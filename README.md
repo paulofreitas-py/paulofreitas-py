@@ -66,12 +66,6 @@
 
 ## 📚 Blog
 <p align="left">
- <a href="https://paulofreitas-py.pingback.com/">
-    <img src="https://img.shields.io/badge/pingback-e8eaf6?style=for-the-badge&logo=pingback&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@paulofreitas.py">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
   <a href="https://dev.to/paulofreitas_py">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>	
