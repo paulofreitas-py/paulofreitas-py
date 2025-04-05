@@ -81,8 +81,10 @@
     <img src="https://holopin.io/api/user/board?user=paulofreitas_dev" width="600" alt="Holopin Badges"/>
   </a>
 </div>
-
----
+  <a href="https://holopin.io/@paulofreitaspy" target="_blank">
+    <img src="https://holopin.io/api/user/board?user=paulofreitaspy" width="600" alt="Holopin Badges"/>
+  </a>
+</div>
 
 ## ✅ Contato
 
