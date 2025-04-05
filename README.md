@@ -1,10 +1,9 @@
 <img align='right' src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__img1.png" width="300">
-
-## 🚀 Bem vindo ao meu Github: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" /> </p>
 
 # 👋 Olá, eu sou Paulo Freitas
 🎓 Formado em Bacharel em Ciência da Computação UNIFG 2023
+
 🎓 Pós-graduando em Ciência de Dados no Infnet com ênfase em Inteligência Artificial, Machine Learning e Deep Learning.  
 
 ## 🚀 O que estou estudando atualmente  
