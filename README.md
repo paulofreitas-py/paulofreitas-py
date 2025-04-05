@@ -132,3 +132,7 @@
 <p align="center">
   <img src="https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/paulofreitas-py/paulofreitas-py/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
