@@ -1,19 +1,24 @@
-<img align="right" src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__img1.png" width="280"/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" />
-</p>
-
-# 👋 Olá, eu sou Paulo Freitas  
-🎓 Bacharel em Ciência da Computação - UNIFG (2023)  
-🎓 Pós-graduando em Ciência de Dados no Infnet (IA, ML e DL)  
-
-<div align="left">
-  <a href="https://app.daily.dev/paulofreitas_py">
-    <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="190" alt="Paulo Freitas 's Dev Card"/>
-  </a>
+<div align="center">
+  
+  ### 👋 Olá, eu sou Paulo Freitas  
+  
+  📌 **Bacharel em Ciência da Computação - UNIFG (2023)**  
+  📌 **Pós-graduando em Ciência de Dados no Infinet (IA, ML e DL)**  
+  
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    
+  <div style="flex: 1; text-align: left;">
+      <img src="https://holopin.io/api/user/paulofreitas_py" width="300" />
+    </div>
+    
+  <div style="flex: 1; text-align: right;">
+      <a href="https://app.daily.dev/paulofreitas_py">
+        <img src="https://api.daily.dev/devcards/paulofreitas_py.svg" width="280"/>
+      </a>
+    </div>
+  </div>
+  
 </div>
-
 
 
 ---
