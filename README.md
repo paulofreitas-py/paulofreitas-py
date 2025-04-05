@@ -3,7 +3,24 @@
 ## 🚀 Bem vindo ao meu Github: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" /> </p>
 
-👋Olá, me chamo **Paulo Freitas**, tenho 25 anos, Formado em Ciência da Computação e Estudando Ciência de Dados 
+# 👋 Olá, eu sou Paulo Freitas
+🎓 Formado em Bacharel em Ciência da Computação UNIFG 2023
+🎓 Pós-graduando em Ciência de Dados no Infnet com ênfase em Inteligência Artificial, Machine Learning e Deep Learning.  
+
+## 🚀 O que estou estudando atualmente  
+🔹 Arquiteturas avançadas de redes neurais  
+🔹 Processamento de Linguagem Natural (NLP)  
+🔹 Frameworks como TensorFlow, PyTorch e LangChain  
+🔹 Engenharia de prompts e LLMs  
+
+## 💡 Áreas de Interesse  
+✔ Inteligência Artificial Aplicada  
+✔ Automação com IA e agentes autônomos  
+✔ Modelagem preditiva e otimização computacional  
+
+## 🛠️ Tecnologias e Ferramentas  
+🖥️ Python | SQL | Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch  
+
 
 ## 📜 Certicações // Certificações 
 - [Hiring Coder FullStack - Gama Academy](https://github.com/paulofreitas-py/Certificados/blob/main/Hiring%20Coders%20-%20Fullstack.pdf)
