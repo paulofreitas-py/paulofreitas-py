@@ -133,6 +133,4 @@
   <img src="https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/paulofreitas-py/paulofreitas-py/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
+[![Paulo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulofreitas-py&theme=react-dark&bg_color=0D1117&color=3DDC84&line=3DDC84&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
