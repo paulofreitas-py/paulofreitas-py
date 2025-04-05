@@ -17,8 +17,36 @@
 ✔ Automação com IA e agentes autônomos  
 ✔ Modelagem preditiva e otimização computacional  
 
-## 🛠️ Tecnologias e Ferramentas  
-🖥️ Python | SQL | Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch  
+## 🚀 Tecnologias & Ferramentas
+
+### 📌 Linguagens de Programação  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/> Python</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20px"/> R</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20px"/> SQLite</span> &nbsp;  
+
+### 🤖 Machine Learning & Deep Learning  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20px"/> TensorFlow</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20px"/> PyTorch</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="20px"/> Scikit-Learn</span> &nbsp;  
+
+### 🧮 Análise de Dados & Estatística  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20px"/> Pandas</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20px"/> NumPy</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20px"/> Matplotlib</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="20px"/> Seaborn</span> &nbsp;  
+
+### 🗃️ Banco de Dados  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20px"/> PostgreSQL</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20px"/> MySQL</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20px"/> MongoDB</span> &nbsp;  
+
+### 🛠️ Dev & Colaboração  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px"/> Git</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px"/> GitHub</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20px"/> Jupyter</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"/> VSCode</span> &nbsp;  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20px"/> Google Cloud</span> &nbsp;
+
 
 
 ## 📜 Certicações // Certificações 
