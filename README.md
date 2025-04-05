@@ -85,13 +85,7 @@
 
 ## ✅ Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/paulofreitas-py/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/paulofreitas-py"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/paulofreitas_py"><img src="https://img.shields.io/badge/Twitch-A901DB?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://www.instagram.com/paulofreitas.py/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/paulofreitas_py"><img src="https://img.shields.io/badge/Telegram-084B8A?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+<div align="left"> <a href="https://www.linkedin.com/in/paulofreitas-py/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" style="margin-right: 10px;" /> </a> <a href="https://github.com/paulofreitas-py" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35px" style="margin-right: 10px;" /> </a> <a href="https://www.twitch.tv/paulofreitas_py" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitch/twitch-original.svg" width="35px" style="margin-right: 10px;" /> </a> <a href="https://www.instagram.com/paulofreitas.py/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35px" style="margin-right: 10px;" /> </a> <a href="https://t.me/paulofreitas_py" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="35px" style="margin-right: 10px;" /> </a> </div>
 
 ---
 
