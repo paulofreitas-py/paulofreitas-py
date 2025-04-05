@@ -7,8 +7,10 @@
 🎓 Pós-graduando em Ciência de Dados no Infnet (IA, ML e DL)  
 
 <a href="https://app.daily.dev/paulofreitas_py">
-  <img align="right" src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="280" alt="Paulo Freitas 's Dev Card"/>
+  <img align="right" src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="200" alt="Paulo Freitas 's Dev Card"
+    style="position: relative; top: -10px; right: 1px;" />
 </a>
+
 
 
 ---
