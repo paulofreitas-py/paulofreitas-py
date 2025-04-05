@@ -134,3 +134,7 @@
 </p>
 
 [![Paulo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulofreitas-py&theme=react-dark&bg_color=0D1117&color=3DDC84&line=3DDC84&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paulofreitas-py&theme=react&hide_border=true&background=0D1117&stroke=3DDC84"/>
+</p>
