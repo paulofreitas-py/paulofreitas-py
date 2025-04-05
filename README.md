@@ -1,12 +1,19 @@
-<img align="right" src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__img1.png" width="280"/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
 
 # 👋 Olá, eu sou Paulo Freitas  
 🎓 Bacharel em Ciência da Computação - UNIFG (2023)  
 🎓 Pós-graduando em Ciência de Dados no Infnet (IA, ML e DL)  
+
+  </div>
+  <a href="https://app.daily.dev/paulofreitas_py" target="_blank">
+    <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="240" alt="Paulo Freitas Dev Card"/>
+  </a>
+</div>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" />
+</p>
 
 ---
 
@@ -67,15 +74,11 @@
 
 ---
 
-## 👨‍💻 Widgets
+## 🎖️ Hacktoberfest & Badges
 
 <div align="center">
-  <a href="https://app.daily.dev/paulofreitas_py">
-    <img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="240" alt="Paulo Freitas 's Dev Card"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://holopin.io/@paulofreitas_dev">
-    <img src="https://holopin.io/api/user/board?user=paulofreitas_dev" width="240"/>
+  <a href="https://holopin.io/@paulofreitas_dev" target="_blank">
+    <img src="https://holopin.io/api/user/board?user=paulofreitas_dev" width="240" alt="Holopin Badges"/>
   </a>
 </div>
 
