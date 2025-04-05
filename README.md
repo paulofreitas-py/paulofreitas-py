@@ -14,31 +14,8 @@
 
 -  - [Reporsitorio de Todosa os Certificados](https://github.com/paulofreitas-py/Certificados)
 
-## 🛠 Programas // Softwares
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-651fff?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Intellij](https://img.shields.io/badge/Blender%203D-FF8800?style=for-the-badge&logo=blender&logoColor=white)
 
 
-## 🛠 Habilidades técnicas
-![Git](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-651fff?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![]() 
-##  👨‍💻 Aprendendo
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![robotframework](https://img.shields.io/badge/Robot%20Framework-9500ae?style=for-the-badge&logo=robot-framework&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-## 💻 Estudando na Faculdade
-![C](https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Java](https://img.shields.io/badge/Java%20-FF8800.svg?&style=for-the-badge&logo=Java&logoColor=white)
 [![@paulofreitas_dev's Holopin board](https://holopin.io/api/user/board?user=paulofreitas_dev)](https://holopin.io/@paulofreitas_dev)
 
 ## ✅ Entre em contato!
