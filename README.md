@@ -85,7 +85,7 @@
 
 ## ✅ Contato
 
-<p align="left"> <a href="https://www.linkedin.com/in/paulofreitas-py/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/> </a> <a href="https://github.com/paulofreitas-py" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/> </a> <a href="https://www.twitch.tv/paulofreitas_py" target="_blank"> <img src="https://www.svgrepo.com/show/448251/twitch.svg" width="40px" alt="Twitch"/> </a> <a href="https://www.instagram.com/paulofreitas.py/" target="_blank"> <img src="https://www.iconpacks.net/icons/2/free-instagram-logo-icon-2433-thumb.png" width="40px" alt="Instagram"/> </a> <a href="https://t.me/paulofreitas_py" target="_blank"> <img src="https://www.iconpacks.net/icons/2/free-telegram-blue-square-logo-icon-15995-thumb.png" width="40px" alt="Telegram"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/paulofreitas-py/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/paulofreitas-py"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.twitch.tv/paulofreitas_py"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> </a> <a href="https://www.instagram.com/paulofreitas.py/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/paulofreitas_py"> <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://x.com/paulofreitas_py"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.threads.net/@paulofreitas.py"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/> </a> </p>
 
 ---
 
@@ -94,10 +94,6 @@
 <a href="https://dev.to/paulofreitas_py">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>	
-
-<a href="https://www.instagram.com/paulofreitas.py/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>		
 
 ---
 ## 🏆 Github Trophy  
