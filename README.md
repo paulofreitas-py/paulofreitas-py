@@ -1,7 +1,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" />
 </p>
-<a href="https://wakatime.com/@8bcd896a-e05c-416f-8fbb-c63171a0e0c3"><img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3.svg" alt="Total time coded since May 28 2021" /></a>
+<a href="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3/project/22302b64-b896-49ec-9d77-e59b736995b7"><img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3/project/22302b64-b896-49ec-9d77-e59b736995b7.svg" alt="wakatime"></a>
 
 # 👋 Olá, eu sou Paulo Freitas  
 🎓 Bacharel em Ciência da Computação - UNIFG (2023)  
