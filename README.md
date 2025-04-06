@@ -1,12 +1,12 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Profile views" style="display:inline-block; margin-right: 10px;" />
   
-  <a href="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3/project/22302b64-b896-49ec-9d77-e59b736995b7" style="display:inline-block; margin-right: 10px;">
+  <a href="https://wakatime.com/@paulofreitasdev" style="display:inline-block; margin-right: 10px;">
     <img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3/project/22302b64-b896-49ec-9d77-e59b736995b7.svg" alt="WakaTime Project Badge"/>
   </a>
   
-  <a href="https://wakatime.com/@8bcd896a-e05c-416f-8fbb-c63171a0e0c3" style="display:inline-block;">
-    <img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3.svg" alt="Total time coded since May 28 2021"/>
+  <a href="wakatime.com/@paulofreitasdev" style="display:inline-block;">
+    <img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3.svg" alt="Total time"/>
   </a>
 </p>
 
