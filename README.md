@@ -5,7 +5,7 @@
     <img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3/project/22302b64-b896-49ec-9d77-e59b736995b7.svg" alt="WakaTime Project Badge"/>
   </a>
   
-  <a href="wakatime.com/@paulofreitasdev" style="display:inline-block;">
+  <a href="wakatime.com/@paulofreitasdev" style="display:inline-block; margin-right: 10px; ">
     <img src="https://wakatime.com/badge/user/8bcd896a-e05c-416f-8fbb-c63171a0e0c3.svg" alt="Total time"/>
   </a>
 </p>
