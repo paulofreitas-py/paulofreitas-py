@@ -6,31 +6,22 @@
 </p>
 
 
-# 👋 Olá, eu sou Paulo Freitas  
-🎓 Bacharel em Ciência da Computação - UNIFG (2023)  
-🎓 Pós-graduando em Ciência de Dados no Infnet (IA, ML e DL)  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> me chamo Paulo Freitas !
 
-<a href="https://app.daily.dev/paulofreitas_py">
-  <img align="right" src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="200" alt="Paulo Freitas 's Dev Card"
-    style="position: relative; top: -100px; right: 1px;" />
-</a>
 
----
 
-## 🚀 O que estou estudando atualmente  
-- Arquiteturas avançadas de redes neurais  
-- Processamento de Linguagem Natural (NLP)  
-- Frameworks como TensorFlow, PyTorch e LangChain  
-- Engenharia de prompts e LLMs  
+## 🚀 O que estou estudando atualmente 
+Formado em Ciência da Computação, tenho 27 anos, residente em Ipojuca — PE. Especialista em desenvolvimento FullStack e criação de softwares MicroSaaS com auxílio de inteligências artificiais. Fundador da Hydra Analytics, consultor de Segurança da Informação para Órgãos e empresas privadas e professor/Instrutor de Desenvolvimento de Sistemas e TI.
 
----
+## ✅ Contato
+
+<p align="left"> <a href="https://www.linkedin.com/in/paulofreitas-py/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/paulofreitas-py"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.twitch.tv/paulofreitas_py"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> </a> <a href="https://www.instagram.com/paulofreitas.py/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/paulofreitas_py"> <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://x.com/paulofreitas_py"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.threads.net/@paulofreitas.py"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/> </a> </p>
+
 
 ## 💡 Áreas de Interesse  
 ✔ Inteligência Artificial Aplicada  
 ✔ Automação com IA e agentes autônomos  
 ✔ Modelagem preditiva e otimização computacional  
-
----
 
 ## 🚀 Tecnologias & Ferramentas  
 
@@ -87,9 +78,6 @@
   </a>
 </div>
 
-## ✅ Contato
-
-<p align="left"> <a href="https://www.linkedin.com/in/paulofreitas-py/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/paulofreitas-py"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.twitch.tv/paulofreitas_py"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> </a> <a href="https://www.instagram.com/paulofreitas.py/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/paulofreitas_py"> <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://x.com/paulofreitas_py"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.threads.net/@paulofreitas.py"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/> </a> </p>
 
 ---
 
