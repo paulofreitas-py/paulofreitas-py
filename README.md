@@ -62,6 +62,9 @@ Sou **Paulo Freitas**, um desenvolvedor FullStack apaixonado por tecnologia e in
 ## ✅ Conecte-se Comigo
 
 <div align="left">
+    <a href="https://www.linkedin.com/in/paulofreitas-py/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white=https://paulofreitas.vercel.app/"/>
+  </a>
   <a href="https://www.linkedin.com/in/paulofreitas-py/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofreitas-py/"/>
   </a>
@@ -269,3 +272,72 @@ Sou **Paulo Freitas**, um desenvolvedor FullStack apaixonado por tecnologia e in
 ---
 
 ## 🎯 Metas & Roadmap
+
+---
+
+## 📖 Áreas de Expertise
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🚀 Backend & APIs</strong><br/>
+      Python | FastAPI | Django<br/>
+      Node.js | REST/GraphQL
+    </td>
+    <td align="center" width="33%">
+      <strong>🎨 Frontend</strong><br/>
+      React | Vue.js<br/>
+      HTML/CSS | Bootstrap
+    </td>
+    <td align="center" width="33%">
+      <strong>🤖 AI & Data</strong><br/>
+      TensorFlow | PyTorch<br/>
+      Pandas | Scikit-Learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>☁️ Cloud & DevOps</strong><br/>
+      AWS | Google Cloud<br/>
+      Docker | Git
+    </td>
+    <td align="center">
+      <strong>🗄️ Databases</strong><br/>
+      PostgreSQL | MongoDB<br/>
+      MySQL | Redis
+    </td>
+    <td align="center">
+      <strong>🛡️ Security</strong><br/>
+      Pentesting | Analysis<br/>
+      Threat Intelligence
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## 📈 Last Updated
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--03--12-blue?style=flat-square"/>
+  
+  <p>⭐ Se você gostou, não esqueça de dar uma estrela! ⭐</p>
+
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/paulofreitas-py/paulofreitas-py/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+<div align="center">
+  
+
+
+  <p><strong>Made with ❤️ by Paulo Freitas</strong></p>
+
+</div>
